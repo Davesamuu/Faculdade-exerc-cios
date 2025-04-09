@@ -18,4 +18,4 @@ while quantidade != 0 and preco != 0:
 print("\nResumo final:")
 print("O valor total é = R$", total)
 print("A quantidade total de produtos comprados foi =", produtos)
-print("Fim")
+print("Fimmmm")
